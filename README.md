@@ -412,6 +412,9 @@ php artisan optimize:clear
 
 ## 🔄 Update Log
 
+### [2026-03-15]
+- Fixed PHP 8.5 deprecation warning
+
 ### [2025-12-29]
 - Added Date Picker in Statistics Chart
 
